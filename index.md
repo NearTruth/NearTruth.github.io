@@ -5,5 +5,5 @@ Hi, my name is Clark and I like computer science and math. I enjoy thinking abou
 
 
 <div>
-  <script src="javascripts/test.js"></script>
+    <script src="javascripts/test.js">
 </div>
