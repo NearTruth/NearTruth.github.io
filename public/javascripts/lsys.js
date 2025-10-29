@@ -33,12 +33,12 @@ function update_str(str) {
 		var update = false
 		for(var j = 0; j < update_rules.length; j++) {
 			if(str[i] == update_rules[j][0]){
-				var new_str.append(update_rules[j][1])
-				var update = true
+				new_str.append + update_rules[j][1]
+				update = true
 			}
 		}
 		if(!update) {
-			var new_str.append(str[i])
+			new_str + str[i]
 		}
 	}
 	return new_str
