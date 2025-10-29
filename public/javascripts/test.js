@@ -48,6 +48,8 @@ function main() {
 	draw_between_points(100,100, 100, 200)
 	
 	recursive_tree(400, 100, Math.PI / 4, 150, Math.PI / 7, 0.65, 11)
+	console.log("working")
+	
 }
 
 main()
